@@ -1,10 +1,11 @@
 {
 	"name": "tefy",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"license": "MIT",
 	"description": "Quick template generation",
 	"main": "./index.js",
 	"repository": "devzstudio/tefy",
+	"homepage": "https://github.com/Devzstudio/Tefy",
 	"funding": "https://www.paypal.me/devzstudio",
 	"scripts": {
 		"start": "node index.js",
