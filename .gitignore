@@ -1,0 +1,7 @@
+/templates
+/output
+/outside
+package-lock.json
+node_modules
+templates
+output

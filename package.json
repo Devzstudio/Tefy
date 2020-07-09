@@ -1,0 +1,34 @@
+{
+	"name": "tefy",
+	"version": "1.0.0",
+	"license": "MIT",
+	"description": "Quick template generation",
+	"main": "./index.js",
+	"repository": "devzstudio/tefy",
+	"funding": "https://www.paypal.me/devzstudio",
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": {
+		"name": "Jijin",
+		"email": "jijin@devzstudio.com",
+		"url": "https://devzstudio.com"
+	},
+	"bin": {
+		"tefy": "index.js"
+	},
+	"keywords": [
+		"tefy",
+		"template",
+		"template generator",
+		"template gen",
+		"quick template",
+		"comand-line",
+		"template cli"
+	],
+	"dependencies": {
+		"chalk": "^4.1.0",
+		"yargs": "^15.4.0"
+	}
+}
