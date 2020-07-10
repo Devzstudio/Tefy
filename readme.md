@@ -1,3 +1,5 @@
+<img src="https://github.com/Devzstudio/Tefy/blob/master/tefy.png?raw=true" />
+
 # Tefy
 
 Tefy generates template file with strings replaced.
